@@ -12,8 +12,7 @@
 2. Excel
 
 ## Key Insights:
-![key insights](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/af60d484-23ad-4c03-ad5a-fc9af7ea0af4)
-
+![Image](https://github.com/user-attachments/assets/b640f1aa-655a-4502-b385-6c7c0b5c8ae7)
 
 ## **Benefits:**
 1. Reduce customer loss: Identify and help customers at risk to keep them longer.
