@@ -3,9 +3,9 @@
 ## This project uses Power BI Desktop and Excel to help businesses prevent customer loss and improve customer service.
 
 ## **Key Features:**
-📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
+Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
-📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
+Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
 ![Image](https://github.com/user-attachments/assets/1accb660-0b1c-4829-88e1-511db38593ce)
 ## **Built with:**
 1. Power BI Desktop
