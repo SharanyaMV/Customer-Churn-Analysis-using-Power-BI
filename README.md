@@ -28,10 +28,3 @@ I:
 - Suggested actions: Gave specific advice on what to do next.
 ![Image](https://github.com/user-attachments/assets/07fd9151-7ee2-4173-9019-abd7aeadb394)
 
-**Get Started:**
-1. Get the project files.
-2. Open the Customer Churn Dashboard.pbix & Customer Risk Analysis Dashboard.pbix in Power BI Desktop.
-3. Connect to your data source.
-4. Start improving customer retention!
-
-Use data insights and Power BI dashboards to keep customers happy and engaged. Note: This version highlights the project's benefits for businesses and includes a clear call to action.
